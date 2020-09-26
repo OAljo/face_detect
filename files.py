@@ -17,4 +17,3 @@ for x in file :
 file.close()
 #make sure the file is closed 
 print(file.read())
-#write function 
